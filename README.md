@@ -1,7 +1,5 @@
 # 🌟 Staykoro - Bangladesh Travel Marketplace
 
-![Staykoro Banner](https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
-
 A comprehensive marketplace platform connecting hosts (property owners) and guests (travelers) with booking, payments, and property management features. Built with React, Node.js, Express, and MySQL.
 
 ## 🌟 Features
